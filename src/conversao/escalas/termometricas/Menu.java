@@ -1,4 +1,4 @@
-package conversao.termometrica;
+package conversao.escalas.termometricas;
 
 import java.util.Scanner;
 
