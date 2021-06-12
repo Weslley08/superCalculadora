@@ -7,7 +7,7 @@ public class Area {
 		return A = Math.PI * Math.pow(r, 2);
 	
 		/*
-		 * A = Área
+		 * A = Ãrea
 		 * r = Raio
 		 */
 	
